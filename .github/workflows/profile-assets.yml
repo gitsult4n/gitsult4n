@@ -16,6 +16,8 @@ jobs:
     concurrency: summary-cards
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
