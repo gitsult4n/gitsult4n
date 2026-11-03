@@ -22,6 +22,7 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 3
+          NAME: Sultan Alharbi
 
   snake:
     runs-on: ubuntu-latest
