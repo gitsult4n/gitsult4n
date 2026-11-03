@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,50:a742f5,100:00d4ff&height=230&section=header&text=Sultan%20Alharbi&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Riyadh%20%F0%9F%87%B8%F0%9F%87%A6&descAlignY=58&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,50:a742f5,100:00d4ff&height=230&section=header&text=Sultan%20Alharbi&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20KSA%20%F0%9F%87%B8%F0%9F%87%A6&descAlignY=58&descSize=20" width="100%" alt="header" />
 
 <a href="https://sult4n.info">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FE428E&center=true&vCenter=true&width=720&lines=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%20%F0%9F%91%8B%20I%27m%20Sultan;Senior%20Software%20Engineer%20from%20Riyadh%20%F0%9F%87%B8%F0%9F%87%A6;Backends%20in%20.NET%2C%20FastAPI%20%26%20Laravel;Frontends%20in%20React%2C%20Next.js%20%26%20TypeScript;Native%20iOS%20in%20Swift%20%2B%20Flutter%20on%20mobile;Shipping%20production%20code%2C%20daily%20%E2%9A%A1" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FE428E&center=true&vCenter=true&width=720&lines=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%20%F0%9F%91%8B%20I%27m%20Sultan;Software%20Engineer%20from%20KSA%20%F0%9F%87%B8%F0%9F%87%A6;Backends%20in%20.NET%2C%20FastAPI%20%26%20Laravel;Frontends%20in%20React%2C%20Next.js%20%26%20TypeScript;Native%20iOS%20in%20Swift%20%2B%20Flutter%20on%20mobile;Shipping%20production%20code%2C%20daily%20%E2%9A%A1" alt="typing" />
 </a>
 
 <p>
@@ -18,8 +18,8 @@
 
 ```ts
 const sultan = {
-  role: "Senior Software Engineer",
-  location: "Riyadh, Saudi Arabia 🇸🇦",
+  role: "Software Engineer",
+  location: "KSA 🇸🇦",
   stack: {
     backend:  [".NET / C#", "FastAPI", "Laravel", "Node.js"],
     frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
